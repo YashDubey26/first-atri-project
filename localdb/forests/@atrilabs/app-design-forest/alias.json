@@ -1,0 +1,12 @@
+{
+  "BarChart": 1,
+  "AreaChart": 1,
+  "Image": 12,
+  "TextBox": 12,
+  "Radio": 1,
+  "Flex": 8,
+  "Link": 12,
+  "Div": 7,
+  "Button": 9,
+  "Upload": 1
+}

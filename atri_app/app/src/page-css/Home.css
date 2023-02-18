@@ -1,0 +1,247 @@
+.p-Home.Website_Header {
+display: inline-flex;
+flex-direction: row;
+align-items: stretch;
+justify-content: flex-start;
+align-content: stretch;
+font-size: 30px;
+text-align: left;
+word-wrap: normal;
+width: 1300px;
+flex-wrap: nowrap;
+column-gap: 100px;
+align-self: auto;
+padding-left: 50px;
+margin-top: 30px;
+}
+.p-Home.Div1 {
+padding-left: ;
+padding-right: ;
+align-self: auto;
+width: 350px;
+font-size: ;
+}
+.p-Home.Flex4 {
+display: flex;
+align-items: stretch;
+padding-left: ;
+padding-right: ;
+margin-right: ;
+row-gap: ;
+column-gap: 20px;
+justify-content: flex-start;
+flex-wrap: nowrap;
+align-content: stretch;
+position: sticky;
+bottom: 0;
+flex-direction: row;
+margin-left: 150px;
+}
+.p-Home.Main_Content_Flex {
+display: flex;
+}
+.p-Home.Main_content {
+height: 350px;
+width: 700px;
+margin-top: 10px;
+}
+.p-Home.Flex6 {
+display: flex;
+margin-top: 30px;
+width: 1200px;
+align-items: center;
+}
+.p-Home.Flex8 {
+display: flex;
+width: 1200px;
+justify-content: space-around;
+margin-top: 10px;
+}
+.p-Home.Image2 {
+align-self: auto;
+margin-left: 100px;
+}
+.p-Home.Link7 {
+padding-left: 10px;
+padding-right: 10px;
+color: #7b7a7a;
+font-size: 20px;
+}
+.p-Home.Link8 {
+padding-left: 10px;
+padding-right: 10px;
+color: #7b7a7a;
+font-size: 20px;
+}
+.p-Home.Link10 {
+padding-left: 10px;
+padding-right: 10px;
+color: #7b7a7a;
+font-size: 20px;
+}
+.p-Home.Link11 {
+padding-left: 10px;
+padding-right: 10px;
+color: #7b7a7a;
+font-size: 20px;
+}
+.p-Home.Link12 {
+padding-right: 10px;
+outline-color: #6a6767;
+border-color: #ececec;
+color: #7b7a7a;
+font-size: 20px;
+text-align: left;
+}
+.p-Home.Button5 {
+color: #fff;
+background-color: #ff4d18;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 25px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+width: 130px;
+}
+.p-Home.Button8 {
+color: #000000;
+background-color: #fafdff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 25px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+right: 1px;
+width: 130px;
+}
+.p-Home.Image5 {
+width: 400px;
+height: 400px;
+margin-top: 50px;
+border-radius: 10px;
+overflow: auto;
+position: static;
+z-index: 1;
+margin-left: 100px;
+}
+.p-Home.Upload1 {
+align-items: stretch;
+color: #fff;
+background-color: #ff6600;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+column-gap: ;
+width: 600px;
+height: 450px;
+margin-left: 950px;
+flex-direction: row;
+justify-content: flex-start;
+flex-wrap: nowrap;
+align-content: flex-start;
+display: flex;
+align-self: auto;
+margin-top: 25px;
+margin-bottom: ;
+position: absolute;
+overflow: visible;
+background-position-y: 1px;
+background-attachment: scroll;
+top: 70px;
+}
+.p-Home.Button7 {
+color: #ffffffff;
+background-color: #ff4d18;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 25px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+right: 1px;
+width: 130px;
+margin-left: 150px;
+margin-top: 25px;
+}
+.p-Home.TextBox7 {
+width: 400px;
+margin-left: 150px;
+margin-top: 100px;
+font-size: 55px;
+text-align: left;
+background-color: #ffffff;
+color: #000000;
+background-clip: border-box;
+-webkit-background-clip: border-box;
+}
+.p-Home.TextBox8 {
+margin-left: 150px;
+margin-top: 25px;
+width: 550px;
+font-size: 20px;
+color: #4f4a4a;
+}
+.p-Home.Button9 {
+color: #000000;
+background-color: #ffffff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 25px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+width: 130px;
+margin-left: 25px;
+}
+.p-Home.TextBox11 {
+margin-left: 600px;
+font-size: 25px;
+margin-top: 50px;
+}
+.p-Home.Image9 {
+margin-left: 350px;
+}
